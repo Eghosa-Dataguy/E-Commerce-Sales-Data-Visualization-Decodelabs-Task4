@@ -437,10 +437,19 @@ This project demonstrates how data visualization can transform raw e-commerce da
 
 ### Author
 
-**Clement Eghosa [Data Analyst]**
- Power BI | SQL | Excel 
+## Clement Eghosa
+
+Data Analyst | Financial Analyst | Business Analyst | Business Intelligence Enthusiast
 
  **Decodelabs Intern**
+ 
+ * Microsoft Excel
+ * Power BI
+ * SQL
+ * Data Visualization
+ * Dashboard Development
+ * Business Analytics
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/eghosa-osalob)
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Profile-black?logo=github)](https://github.com/Eghosa-Dataguy)
