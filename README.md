@@ -1,4 +1,4 @@
-# E-Commerce-Sales-Data-Visualization-Decodelabs-Task4
+# E-Commerce-Sales-Data-Analysis
 End-to-end E-Commerce Sales data visualization project | Analyzes sales performance, customer purchasing behavior, product trends, payment methods, and order fulfillment metrics using Power BI to support data-driven decision-making.
 
 <img width="1411" height="802" alt="Screenshot 2026-06-04 130552" src="https://github.com/user-attachments/assets/e5d755c8-3c10-43cb-97ae-37047e0d60a4" />
